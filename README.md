@@ -10,7 +10,7 @@ When we enter a URL in a web browser and press Enter, the browser first uses DNS
 <img width="1917" height="992" alt="image" src="https://github.com/user-attachments/assets/2a4e9f04-eae5-4680-b655-4e17d7b731ee" />
 
 ### Node.js Version
-![Node.js version screenshot](screenshots/node-version.png)
+<img width="1866" height="961" alt="image" src="https://github.com/user-attachments/assets/f5ecb68d-4a54-41fa-9898-c604e8274265" />
 
 ### Page Running with Live Server
 <img width="1890" height="860" alt="image" src="https://github.com/user-attachments/assets/611efad9-0089-4ac0-868d-45e3500da850" />
